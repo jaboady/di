@@ -14,6 +14,6 @@ public class DiApplication {
 
 		MyController controller = (MyController) ctx.getBean("myController");
 
-		controller.hello();
+		controller.salama();
 	}
 }
